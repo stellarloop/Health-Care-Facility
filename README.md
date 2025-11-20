@@ -57,4 +57,4 @@ SELECT * FROM sys_user;
 
 ## User Interfaces
 
-<img src="https://github.com/stellarloop/Health--Care-Facility/blob/master/screenshots/screenshots.png" alt="ScreenShots" width="100%">
+<img src="https://github.com/stellarloop/Health-Care-Facility/blob/master/screenshots/screenshots.png" alt="ScreenShots" width="100%">
