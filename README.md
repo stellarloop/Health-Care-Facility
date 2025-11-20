@@ -1,4 +1,4 @@
-# HealthPlus
+# HealthCare Facility
 
 [![Java](https://img.shields.io/badge/Java-OpenJDK%2017-007396)](https://openjdk.org/) &nbsp;
 [![JavaFX](https://img.shields.io/badge/JavaFX-v17.0.10-52d3aa)](https://openjfx.io)&nbsp;
@@ -6,7 +6,7 @@
 [![Maven](https://img.shields.io/badge/Maven-3.9.9-C71A36)](https://maven.apache.org/)&nbsp;
 [![License: MIT](https://img.shields.io/badge/License-Apache%202.0-4CAF50)](https://github.com/heshanera/HealthPlus/blob/master/LICENSE)&nbsp;
 
-HealthPlus is a management system designed to streamline operations within healthcare facilities. It offers functionalities such as patient registration, appointment scheduling, medical record management, pharmacy billing, and inventory control. Developed using Java, JavaFX and uses MariaDB for database management
+HealthCare Facility is a management system designed to streamline operations within healthcare facilities. It offers functionalities such as patient registration, appointment scheduling, medical record management, pharmacy billing, and inventory control. Developed using Java, JavaFX and uses MariaDB for database management
 
 ## The system includes
   - Registration of patients
@@ -57,4 +57,4 @@ SELECT * FROM sys_user;
 
 ## User Interfaces
 
-<img src="https://github.com/heshanera/HealthPlus/blob/master/screenshots/screenshots.png" alt="ScreenShots" width="100%">
+<img src="https://github.com/stellarloop/Health--Care-Facility/blob/master/screenshots/screenshots.png" alt="ScreenShots" width="100%">
